@@ -1,3 +1,4 @@
+/* Powered by CodeByTushu | Developed by Tushpendra Kumar | https://codebytushu.com */
 document.addEventListener("DOMContentLoaded", function () {
     const text = document.querySelector(".animated-text");
     text.classList.add("typing-animation");
